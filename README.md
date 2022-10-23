@@ -7,3 +7,7 @@
 ## Release
 
 `Hello`
+
+## Hotfix
+
+~Hello world!~
